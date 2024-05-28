@@ -1,0 +1,18 @@
+[
+    {"id": 1, "question_id": 1, "answer_text": "Красный"},
+    {"id": 2, "question_id": 1, "answer_text": "Синий"},
+    {"id": 3, "question_id": 1, "answer_text": "Зеленый"},
+    {"id": 4, "question_id": 1, "answer_text": "Желтый"},
+    {"id": 5, "question_id": 2, "answer_text": "Лето"},
+    {"id": 6, "question_id": 2, "answer_text": "Осень"},
+    {"id": 7, "question_id": 2, "answer_text": "Зима"},
+    {"id": 8, "question_id": 2, "answer_text": "Весна"},
+    {"id": 9, "question_id": 3, "answer_text": "Семья"},
+    {"id": 10, "question_id": 3, "answer_text": "Карьера"},
+    {"id": 11, "question_id": 3, "answer_text": "Друзья"},
+    {"id": 12, "question_id": 3, "answer_text": "Хобби"},
+    {"id": 13, "question_id": 4, "answer_text": "Чтение"},
+    {"id": 14, "question_id": 4, "answer_text": "Спорт"},
+    {"id": 15, "question_id": 4, "answer_text": "Путешествия"},
+    {"id": 16, "question_id": 4, "answer_text": "Искусство"}
+]
